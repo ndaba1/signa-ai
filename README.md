@@ -7,11 +7,11 @@ A web application which takes in text or live audio speech recording as input, c
 >- A 3D animation of a character created
 using Blender 3D tool.
 
-Team:
-    ~Mark Gatere
-    ~Ephantus Ng'ang'a
-    ~Michael Muia
-    ~Denis Muriuki
+### Team:
+    >- Mark Gatere
+    >- Ephantus Ng'ang'a
+    >- Michael Muia
+    >- Denis Muriuki
 
 
 ## Prerequisites
