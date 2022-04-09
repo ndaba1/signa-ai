@@ -17,7 +17,7 @@ using Blender 3D tool.
 ## Prerequisites
 
 >- Python >= 3.7
->- Browser supports Web Speech API
+>- Browser supports Web Speech API - eg. Chrome
 >- Download all required packages for python script A2SL/views.py
 
 
